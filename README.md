@@ -1,1 +1,3 @@
-# castle-opengl
+# Tiago Pinto
+
+First OpenGl project.
